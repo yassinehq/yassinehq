@@ -22,8 +22,8 @@ Je suis étudiant en **BTS**, spécialisé dans le **développement web** et le 
 
 ## 📂 Projets clés
 
-### [Portfolio Web](https://github.com/Omri/portfolio)
-Mon portfolio interactif en **HTML/CSS/JS**, conçu pour être moderne, responsive et facile à naviguer.
+### [Calculatrice](https://github.com/yassinehq/calculator)
+Une calculatrice moderne en HTML/CSS
 
 ### [Atlas des légendes urbaines](https://github.com/Omri/urban-legends-atlas)
 Carte interactive représentant les légendes urbaines avec **animations et design épuré**.
