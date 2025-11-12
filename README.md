@@ -23,7 +23,7 @@ Je suis étudiant en **BTS**, spécialisé dans le **développement web** et le 
 ## 📂 Projets clés
 
 ### [Calculatrice](https://github.com/yassinehq/calculator)
-Une calculatrice moderne en HTML/CSS
+Une calculatrice moderne en HTML/CSS/JS
 
 ### [Atlas des légendes urbaines](https://github.com/Omri/urban-legends-atlas)
 Carte interactive représentant les légendes urbaines avec **animations et design épuré**.
