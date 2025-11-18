@@ -1,4 +1,4 @@
-# Omri – Développeur & Graphiste
+# Yassine – Développeur & Graphiste
 
 Bienvenue sur mon profil GitHub.  
 Je suis étudiant en **BTS**, spécialisé dans le **développement web** et le **graphisme**, et je crée des projets utiles et esthétiques.
@@ -37,7 +37,7 @@ Carte interactive représentant les légendes urbaines avec **animations et desi
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omri&show_icons=true&theme=dark&count_private=true&hide=issues" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine&show_icons=true&theme=dark&count_private=true&hide=issues" alt="GitHub Stats"/>
 </p>
 
 ---
