@@ -35,7 +35,7 @@ Pour me connaître
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassine&show_icons=true&theme=dark&count_private=true&hide=issues" alt="GitHub Stats"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </p>
 
 ---
