@@ -33,10 +33,6 @@ Pour me connaître
 ---
 
 
-
-
----
-
 ## 📫 Contact
 
 <p align="center">
