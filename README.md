@@ -23,6 +23,9 @@ Je suis étudiant en **BTS**, spécialisé dans le **développement web** et le 
 ### [Calculatrice](https://github.com/yassinehq/calculator)
 Une calculatrice moderne en HTML/CSS/JS
 
+### [Portfolio](https://github.com/yassinehq/portfolio)
+Pour me connaître
+
 ### Autres projets
 - Développement de petites applications web  
 - Mini projets graphiques et illustrations  
